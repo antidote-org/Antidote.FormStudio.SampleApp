@@ -1,0 +1,8 @@
+source https://api.nuget.org/v3/index.json
+
+storage: none
+nuget Feliz
+nuget Feliz.Router
+
+source /Users/luisfx/code/antidote-org/Antidote.FormStudio/bin/Release
+nuget Antidote.FormStudio
